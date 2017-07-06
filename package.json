@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Michaelm999/team-workflow-practice/issues"
   },
-  "homepage": "https://github.com/Michaelm999/team-workflow-practice#readme"
+  "homepage": "https://github.com/Michaelm999/team-workflow-practice#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
